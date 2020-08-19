@@ -8,7 +8,8 @@ The persons submiting the data should take note of it.
 Optional information may be provided which can include elevation, soil information or any specific remarks as felt by the recorder
 
 ## Releases
-[Ceropegia_Counting_Project_HTML](CCP.html): A shareable HTML file for personal/public uses which anyone can download it for free and view the current occurrences of the genus in India.
+[Ceropegia_Counting_Project_HTML](CCP.html): A shareable HTML file for personal/public uses which anyone can download it for free and view the current occurrences of the genus in India. 
+`Caution: The web map takes longer processing time in the HTML to show up, so please don't think that the file is corrupt or the link is invalid`
 
 ## Contributors
 `Mr. Snehangshu Das` (Department of Botany, Shivaji University, Kolhapur-416004, Maharashtra, India)
