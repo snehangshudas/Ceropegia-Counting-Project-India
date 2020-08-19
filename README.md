@@ -1,5 +1,5 @@
 ## Ceropegia Counting Project (India)
-Under the aegis of CSIR-NEIST SRTP 2020, Ceropegia Counting Project was started as a pilot project. 
+Under the aegis of `CSIR-NEIST SRTP 2020`, Ceropegia Counting Project was started as a pilot project. 
 The Ceropegia Counting Project aims to cover each and every species from genus Ceropegia (Family: Ascelpediaceae) under one hood. 
 This would facilitate a better flow of information to the public and also would be beneficial to the researchers. 
 In this repository, anyone can submit an excel sheet with general information regarding Ceropegias from their respective regions by mailing us. We will be happy to include each of the record in the future updates of the web map. 
