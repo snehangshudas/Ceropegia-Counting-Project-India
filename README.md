@@ -12,13 +12,15 @@ Optional information may be provided which can include elevation, soil informati
 `Caution: The web map takes longer processing time in the HTML to show up, so please don't think that the file is corrupt or the link is invalid`
 
 ## Contributors
-`Mr. Snehangshu Das` (Department of Botany, Shivaji University, Kolhapur-416004, Maharashtra, India)
-`Dr. M. Arunjit Singh` (Department of Botany, Kalindi College (University of Delhi) East Patel Nagar, New Delhi-110008, India)
+`Mr. Snehangshu Das` (Shivaji University, Kolhapur-416004, Maharashtra, India)
+`Dr. M. Arunjit Singh` (Kalindi College (University of Delhi) East Patel Nagar, New Delhi-110008, India)
+`Dr. Salam Sonia Devi` (Bhaskaracharya College of Applied Sciences, University of Delhi, Delhi-110075, India)
 
 ## Contact Details
 For any submission/issues/collaboration, contact:
 Mr. Snehangshu Das ``email: snehangshudas3@gmail.com``
 Dr. M. Arunjit Singh ``email: arunjit456@gmail.com``
+Dr. Salam Sonia Devi `email: salam.sonia@gmail.com`
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
