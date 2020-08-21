@@ -13,6 +13,9 @@ Optional information may be provided which can include elevation, soil informati
 
 [Ceropegia_Counting_Project_AndrooidApp](Ceropegia_Counting_Project_AndroidApp.apk): An apk file for your local use in Android phones.
 
+## List of Ceropegia Occurrences
+[Ceropegia Occurrences with its GIS Information](Species_Occurrences.csv): The list contains all the data related to the occurences of the genus in India. A documented list of 55 species alongwith its GIS details are available for free download and use.
+
 ## Contributors
 `Mr. Snehangshu Das` (Shivaji University, Kolhapur-416004, Maharashtra, India)
 `Dr. M. Arunjit Singh` (Kalindi College (University of Delhi) East Patel Nagar, New Delhi-110008, India)
