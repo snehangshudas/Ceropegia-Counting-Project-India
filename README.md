@@ -11,7 +11,7 @@ Optional information may be provided which can include elevation, soil informati
 [Ceropegia_Counting_Project_HTML](CCP.html): A shareable HTML file for personal/public uses which anyone can download it for free and view the current occurrences of the genus in India. To download this file, you can directly download the entire code zip file of the project or alternatively, click on `Releases` tab and click on the `CCP.html` file to dowload only the html file. And open it locally on your computer or phones. 
 `Caution: The web map takes longer processing time in the HTML to show up, so please don't think that the file is corrupt or the link is invalid`
 
-[Ceropegia_Counting_Project_AndrooidApp](Ceropegia_Counting_Project_AndroidApp.apk): An apk file for your local use in Android phones.
+[Ceropegia_Counting_Project_AndroidApp](Ceropegia_Counting_Project_AndroidApp.apk): An apk file for your local use in Android phones.
 
 ## List of Ceropegia Occurrences
 [Ceropegia Occurrences with its GIS Information](Species_Occurrences.csv): The list contains all the data related to the occurences of the genus in India. A documented list of 55 species alongwith its GIS details are available for free download and use.
